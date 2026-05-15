@@ -1077,11 +1077,11 @@ const PROCESS = [
     title: "Client Sends Assets",
     desc: "You share all content — logo, copy, images, brand guidelines.",
   },
-  {
-    step: "02",
-    title: "Design Phase",
-    desc: "We translate your assets into a polished UI. You receive Figma mockups for review before development begins.",
-  },
+ {
+  step: "02",
+  title: "Design Phase",
+  desc: "We finalise the design direction and prepare a polished, production-ready interface for development.",
+},
   {
     step: "03",
     title: "Development Phase",
