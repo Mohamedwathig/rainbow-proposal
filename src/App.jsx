@@ -478,29 +478,13 @@ function About() {
                 letterSpacing: "-0.01em",
               }}
             >
-              Rainbow Group is a professionally operated business with an
-              established market presence and a growing customer base. Their
-              reputation for reliability and quality positions them as a trusted
-              name in their industry.
+             Rainbow Group Pty Ltd is a leading Australian civil construction company delivering high-quality civil engineering and environmental services across the country. With operations spanning New South Wales, Victoria, Queensland, and Western Australia, the company is trusted for handling complex infrastructure and remediation projects with precision and professionalism.
+
+With over 30 years of industry experience, Rainbow Group has grown from humble beginnings into a reputable name in the construction sector. The company is recognised for its reliability, technical expertise, and consistent ability to exceed client expectations.
+
+Their core commitment is delivering complete client satisfaction through quality workmanship, innovation, and long-term project success.
             </p>
-            <p
-              style={{
-                fontSize: 15,
-                color: "var(--ew-muted)",
-                lineHeight: 1.8,
-                marginBottom: 24,
-              }}
-            >
-              The objective of this engagement is to translate that offline
-              credibility into a polished, high-performing digital presence —
-              one that reinforces trust, communicates value clearly, and converts
-              visitors into long-term clients.
-            </p>
-            <p style={{ fontSize: 15, color: "var(--ew-muted)", lineHeight: 1.8 }}>
-              A well-designed website is no longer optional; it is the
-              cornerstone of every modern business's credibility. This proposal
-              outlines exactly how Elyass Webworks will deliver that.
-            </p>
+           
           </div>
         </div>
       </Container>
@@ -1251,8 +1235,8 @@ function CTA() {
               maxWidth: 440,
             }}
           >
-            Accept this proposal and we'll kick off with a brief onboarding
-            call, followed by your first design mockup within 48 hours.
+            Upon acceptance of this proposal, your project will be scheduled. Work will
+  begin once the initial deposit has been received.
           </p>
           <div style={{ display: "flex", gap: 14, flexWrap: "wrap", justifyContent: "center" }}>
           <a
@@ -1278,14 +1262,14 @@ Rainbow Group`)}`}
 >
   Accept & Start Project
 </a>
-          <a
-  href="https://www.instagram.com/elyasswebworks/"
+  <a
+  href="https://www.paypal.com/ncp/payment/U8YWX663Z52JU"
   target="_blank"
   rel="noopener noreferrer"
   className="ew-btn-ghost"
   style={{ padding: isMobile ? "12px 28px" : "14px 36px", fontSize: 14 }}
 >
-  Message on Instagram
+  Pay Initial Deposit
 </a>
           </div>
 
