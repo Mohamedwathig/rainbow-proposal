@@ -1255,23 +1255,25 @@ function CTA() {
             call, followed by your first design mockup within 48 hours.
           </p>
           <div style={{ display: "flex", gap: 14, flexWrap: "wrap", justifyContent: "center" }}>
-           <a
-  href={`mailto:hello@elyasswebworks.com?subject=${encodeURIComponent(
+          <a
+  href={`https://mail.google.com/mail/?view=cm&fs=1&to=mohamedwathig3@gmail.com&su=${encodeURIComponent(
     "Rainbow Group Proposal — Project Acceptance"
   )}&body=${encodeURIComponent(`Hi Elyass,
 
 I’d like to confirm that I accept the proposal for Rainbow Group.
 
 Project Details:
-- Company Name: Rainbow Group
-- Contact Name:
-- Preferred Start Date:
-- Notes (if any):
+- Company Name: Rainbow Group 
+- Contact Name: Mohamed
+- Preferred Start Date: Immediate
+- Notes (if any): 
 
 Please let me know the next steps.
 
-Best regards,`)}
-  `}
+Best regards,
+Rainbow Group`)}`}
+  target="_blank"
+  rel="noreferrer"
   className="ew-btn"
 >
   Accept & Start Project
