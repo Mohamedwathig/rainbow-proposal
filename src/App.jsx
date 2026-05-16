@@ -1240,7 +1240,7 @@ function CTA() {
           </p>
           <div style={{ display: "flex", gap: 14, flexWrap: "wrap", justifyContent: "center" }}>
           <a
-  href={`https://mail.google.com/mail/?view=cm&fs=1&to=mohamedwathig3@gmail.com&su=${encodeURIComponent(
+  href={`https://mail.google.com/mail/?view=cm&fs=1&to=info.elyasswebworks@gmail.com&su=${encodeURIComponent(
     "Rainbow Group Proposal — Project Acceptance"
   )}&body=${encodeURIComponent(`Hi Elyass,
 
@@ -1338,6 +1338,7 @@ function Footer() {
         </p>
 
         <p style={{ fontSize: 12, color: "var(--ew-muted)" }}>
+  <div style={{ display: "flex", gap: "16px", alignItems: "center" }}>
   <a
     href="https://www.instagram.com/elyasswebworks/"
     target="_blank"
@@ -1349,6 +1350,17 @@ function Footer() {
   >
     @elyasswebworks
   </a>
+
+  <a
+    href="mailto:info.elyasswebworks@gmail.com"
+    style={{
+      color: "inherit",
+      textDecoration: "none",
+    }}
+  >
+    Email Us
+  </a>
+</div>
 </p>
       </Container>
     </footer>
