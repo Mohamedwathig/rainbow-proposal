@@ -1072,11 +1072,11 @@ function Hosting() {
    8. PROCESS (Responsive)
 ══════════════════════════════════════════════════════════════════════════════ */
 const PROCESS = [
-  {
-    step: "01",
-    title: "Client Sends Assets",
-    desc: "You share all content — logo, copy, images, brand guidelines.",
-  },
+ {
+  step: "01",
+  title: "Client Onboarding & Hosting Access",
+  desc: "You share all required content including logo, copy, images, brand guidelines, and hosting login details to ensure proper setup and deployment.",
+},
  {
   step: "02",
   title: "Design Phase",
